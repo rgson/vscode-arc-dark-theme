@@ -116,6 +116,7 @@
 			"name": "Keyword, Storage",
 			"scope": [
 				"keyword",
+				"keyword.control",
 				"storage.type",
 				"storage.modifier"
 			],
@@ -124,18 +125,8 @@
 			}
 		},
 		{
-			"name": "Keyword Control",
-			"scope": [
-				"keyword.control.flow"
-			],
-			"settings": {
-				"foreground": "#ba75e8"
-			}
-		},
-		{
 			"name": "Operator, Misc",
 			"scope": [
-				"keyword.control",
 				"constant.other.color",
 				"punctuation",
 				"punctuation.section.class.end",
