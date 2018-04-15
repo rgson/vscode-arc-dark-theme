@@ -82,7 +82,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#e15158"
+				"foreground": "#d3dae3"
 			}
 		},
 		{
@@ -156,16 +156,6 @@
 			}
 		},
 		{
-			"name": "Tag",
-			"scope": [
-				"entity.name.tag",
-				"meta.tag.sgml"
-			],
-			"settings": {
-				"foreground": "#e15158"
-			}
-		},
-		{
 			"name": "Function, Special Method",
 			"scope": [
 				"entity.name.function",
@@ -176,25 +166,6 @@
 			],
 			"settings": {
 				"foreground": "#5294e2"
-			}
-		},
-		{
-			"name": "Block Level Variables",
-			"scope": [
-				"meta.block variable.other"
-			],
-			"settings": {
-				"foreground": "#e15158"
-			}
-		},
-		{
-			"name": "Other Variable, String Link",
-			"scope": [
-				"support.other.variable",
-				"string.other.link"
-			],
-			"settings": {
-				"foreground": "#e15158"
 			}
 		},
 		{
@@ -264,27 +235,6 @@
 			],
 			"settings": {
 				"foreground": "#51b8e1"
-			}
-		},
-		{
-			"name": "Sub-methods",
-			"scope": [
-				"entity.name.module.js",
-				"variable.import.parameter.js",
-				"variable.other.class.js"
-			],
-			"settings": {
-				"foreground": "#e15158"
-			}
-		},
-		{
-			"name": "Language methods",
-			"scope": [
-				"variable.language"
-			],
-			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#e15158"
 			}
 		},
 		{
@@ -413,16 +363,6 @@
 			"settings": {
 				"fontStyle": "italic",
 				"foreground": "#5294e2"
-			}
-		},
-		{
-			"name": "ES7 Bind Operator",
-			"scope": [
-				"source.js constant.other.object.key.js string.unquoted.label.js"
-			],
-			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#e15158"
 			}
 		},
 		{
